@@ -1,0 +1,17 @@
+.Button {
+  border: solid 1px black;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 10px;
+  background: #ffffff;
+  word-break: break-word;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.Button:hover {
+  background: #adc6ff;
+  transition-duration:  200px;
+}
